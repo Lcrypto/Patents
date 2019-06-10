@@ -1,2 +1,2 @@
 # MyPatent
-List of Error Correction Codes Patents
+List my Error Correction Codes Patents
