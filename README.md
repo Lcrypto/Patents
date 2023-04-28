@@ -1,2 +1,8 @@
 # MyPatent
-Error Correction Codes Patents
+The GitHub repository offers valuable insights into the field of Error Correction Codes (ECC) that are applicable to various communication channels such as Wireless, Optical (Fiber) Long Haul, Submarine, Satellite, and Storage. It covers a wide range of different types of ECCs including Generalized LDPC (GLDPC), Low-Density Parity-Check (LDPC), and Quasi-Cyclic LDPC (QC-LDPC) codes.
+The repository includes descriptions of Low-Density Parity-Check (LDPC) codes, which are commonly referred to as Protograph and MET-LDPC codes. These codes are quite similar to one another. The repository covers various aspects of these codes such as weight distribution polynomials proposed by Richarson-Urbanke for MET-LDPC codes and Protograph LDPC codes proposed by Divsalar. Both MET-LDPC and Protograph LDPC codes use a base matrix and graphical representation of protographs to achieve better error correction performance.
+
+
+In addition, the repository provides information on topics such as weight distribution polynomials, EMD Spectrum, cycles topology (Trapping sets), code distance, and weight spectrum. These topics are essential in designing efficient error correction systems in diverse communication scenarios.
+
+Overall, this repository provides a comprehensive collection of information on ECC patents and techniques that can be applied to a variety of communication channels. The repository's resources and insights into the various aspects of ECC design make it an excellent resource for researchers and practitioners exploring different error correction strategies in communications engineering.
